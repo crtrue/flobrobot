@@ -1,0 +1,49 @@
+[sources.ecmwf]
+name = "ECMWF (Euro) Model"
+url = "http://wx.graphics/models/ecmwf_florence.png"
+modified = "Wed, 12 Sep 2018 18:57:01 GMT"
+
+[sources.ecmwf_eps]
+name = "ECMWF EPS (Euro Spaghetti) Model"
+url = "http://wx.graphics/models/eps_florence.png"
+modified = "Wed, 12 Sep 2018 19:16:27 GMT"
+
+[sources.gfs]
+name = "GFS (US) Model"
+url = "http://wx.graphics/models/gfs_florence.png"
+modified = "Wed, 12 Sep 2018 16:43:03 GMT"
+
+[sources.gfs_fv3]
+name = "GFS FV3 (US Experimental) Model"
+url = "http://wx.graphics/models/fv3gfs_florence.png"
+modified = "Wed, 12 Sep 2018 17:03:41 GMT"
+
+[sources.ukmet]
+name = "UKMET (UK) Model"
+url = "http://wx.graphics/models/ukmet_florence.png"
+modified = "Wed, 12 Sep 2018 17:00:07 GMT"
+
+[sources.other_models]
+name = "Other Models"
+url = "https://apps.sfwmd.gov/sfwmd/common/images/weather/plots/storm_06_ens.gif"
+modified = "Wed, 12 Sep 2018 19:06:33 GMT"
+
+[sources.nhc_forecast_5day]
+name = "NHC 5-Day Forecast Cone"
+url = "https://www.nhc.noaa.gov/storm_graphics/AT06/AL062018_5day_cone_with_line_and_wind.png"
+modified = "Wed, 12 Sep 2018 17:59:26 GMT"
+
+[sources.nhc_wind_arrival_likely]
+name = "NHC Most Likely Arrival Time of Tropical Storm-Force Winds"
+url = "https://www.nhc.noaa.gov/storm_graphics/AT06/AL062018_most_likely_toa_34.png"
+modified = "Wed, 12 Sep 2018 14:42:26 GMT"
+
+[sources.nhc_wind_ts]
+name = "NHC Probability of Tropical Storm-Force Winds"
+url = "https://www.nhc.noaa.gov/storm_graphics/AT06/AL062018_wind_probs_34_F120.png"
+modified = "Wed, 12 Sep 2018 15:22:21 GMT"
+
+[sources.nhc_key_messages]
+name = "NHC Key Messages"
+url = "https://www.nhc.noaa.gov/storm_graphics/AT06/AL062018_key_messages.png"
+modified = "Wed, 12 Sep 2018 18:15:23 GMT"
